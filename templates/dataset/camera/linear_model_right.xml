@@ -1,0 +1,16 @@
+<!--
+MVL camer model.
+Wed Sep 13 17:07:00 2006
+-->
+
+<camera_model>
+    <type>CAMERA_MODEL_MVL_LINEAR</type>
+    <width  type="double"> 1024 </width>
+    <height type="double"> 768 </height>
+    <pose   type="double"> -0.000000; 0.256857; 0.000000; 0.000000; 0.003580; 0.000000 </pose>
+    <fx     type="double"> 1057.808428 </fx>
+    <cx     type="double"> 519.190040 </cx>
+    <fy     type="double"> 1052.916356 </fy>
+    <cy     type="double"> 388.633721 </cy>
+    <sx     type="double"> 0.000000 </sx>
+</camera_model>
